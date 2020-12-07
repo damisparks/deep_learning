@@ -18,7 +18,7 @@ According to [Andrew Moore, dean of computer science at the Carnegie Mellon](htt
 - [Automatic text recognition or Optical Character Recognition](https://en.wikipedia.org/wiki/Optical_character_recognition)
 - [Semantic segmentation](https://www.cs.toronto.edu/~tingwuwang/semantic_segmentation.pdf)
 
-###  What is Machine Learning:
+### What is Machine Learning:
 
 It is a branch of artificial intelligence,
 as simply put by [Tom Michael Mitchell, Professor at the Carnegie Mellon University.](http://www.cs.cmu.edu/~tom/),
@@ -43,11 +43,35 @@ That said, it lead to the another question. 👇🏾
 
 DL simply can can process and learn from much, much more data than previous approaches.
 
-Interesting this article [Andrew Ng: Why AI Is the New Electricity
+Interesting this article, [Andrew Ng: Why AI Is the New Electricity
 ](https://www.gsb.stanford.edu/insights/andrew-ng-why-ai-new-electricity) talks about how AI will affect industry, he said
 
 ### The New Electricity
 
 > Just as electricity transformed almost everything 100 years ago, today I actually have a hard time thinking of an industry that I don’t think AI will transform in the next several years. **- Andrew Ng**
 
-...TBC
+Now, let's a take dive into the machine learning techniques.
+
+## Machine Learning Technique
+
+They are:
+
+- Supervised learning,
+- Unsupervised learning, and
+- Reinforcement learning.
+
+**[Supervised learning](https://en.wikipedia.org/wiki/Supervised_learning#:~:text=Supervised%20learning%20is%20the%20machine,a%20set%20of%20training%20examples.)** _uses pre-labeled data to train a model to predict new outcomes for information that hasn't been exposed to before. Examples are :_
+
+- Classification
+- Regression
+
+**[Unsupervised learning](https://en.wikipedia.org/wiki/Unsupervised_learning#:~:text=Unsupervised%20learning%20is%20a%20type,a%20minimum%20of%20human%20supervision.)** _uses non-labeled data and self organizes to predict patterns or outcomes such as clustering or associations. Examples are :_
+
+- Anomaly detection
+- Clustering
+- Neural Networks
+
+**[Reinforcement learning](<https://en.wikipedia.org/wiki/Reinforcement_learning#:~:text=Reinforcement%20learning%20(RL)%20is%20an,supervised%20learning%20and%20unsupervised%20learning.>)** _is giving feedback to an algorithm when
+it does something right or wrong based on a discrete outcome,
+this can either be in real time or offline._
+
