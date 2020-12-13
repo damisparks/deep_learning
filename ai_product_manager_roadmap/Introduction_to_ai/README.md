@@ -75,3 +75,4 @@ They are:
 it does something right or wrong based on a discrete outcome,
 this can either be in real time or offline._
 
+Next is [Using AI and Machine Learning in Business](aiml_in_business.md)
