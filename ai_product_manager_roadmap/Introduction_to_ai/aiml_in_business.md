@@ -19,8 +19,15 @@ Here are several examples of ways real companies are using AI today. They are:
 
 ## AI Approach
 
-A typical approach to AI starts with data.
+### A typical approach to AI starts with data.
 
-[ ] To add image for explanation
+Below is a typical pipeline used by many machine learning teams to build products.
+![Typical AI Pipeline](./images/ml_pipeline.png)
+
+Drafting...
+<!-- They are :
+Spend some time cleaning and organizing 
+It starts with
+[ ] To add image for explanation -->
 
 ...TBC

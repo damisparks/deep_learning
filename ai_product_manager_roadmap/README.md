@@ -15,4 +15,4 @@ They are :
 
 - ### Introduction to AI in Business
 
-_It gives you an overview of AI and machine learning and where they are used in industry. This lesson covers terminology and applications of supervised learning, unsupervised learning, and neural networks._
+It gives you an overview of AI and machine learning and where they are used in industry. This lesson covers terminology and applications of supervised learning, unsupervised learning, and neural networks.
