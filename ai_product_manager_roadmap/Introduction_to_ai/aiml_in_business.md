@@ -24,10 +24,17 @@ Here are several examples of ways real companies are using AI today. They are:
 Below is a typical pipeline used by many machine learning teams to build products.
 ![Typical AI Pipeline](./images/ml_pipeline.png)
 
-Drafting...
-<!-- They are :
-Spend some time cleaning and organizing 
-It starts with
-[ ] To add image for explanation -->
 
+They are :
+
+- Spend some time cleaning and organising
+- Jump into building the model
+- Test and validate it.
+- Then, push it for deployment.
+
+> However, the truth of the matter is that it should start with the business problem.
+> Why build something when it is not solving a problem?
+> It does not make sense unless you plan to waste money.
+
+Drafting...
 ...TBC
