@@ -62,4 +62,86 @@ Consider these questions as a guide. They are :
 - Define the scope of the project.
 - How do we measure success?
 
-...TBC
+With the questions, it means you have a narrow and measurable articulation of a business goal.
+
+Okay cool!. We've got asking the right questions out of the way.
+
+Let's talk about metrics a bit.
+
+### Metrics
+
+Metrics, metrics, metrics are vital. I cannot stress how much it is needed.
+What makes a metric effective?
+An effective metric must be :
+easily measurable
+
+- directly correlate to the business performance.
+- predictive of future business outcomes.
+- comparable to the competitors' metrics.
+
+### Team
+
+The need for a team cannot be overlooked. To have a successful product launch, it depends on the team as well. Below are various pieces of your product for a successful launch.
+**The need for a team.**
+![The need for a team](./images/need_for_team.png)
+
+However, the reality is that cross-functional teams are crucial for driving the business outcome. It would be best if you had a team of folks who cut across different disciplines. You can also have multiple teams running in parallel.
+Like the image shown below.
+
+> Reality: Cross-functional teams are crucial for driving the business outcome
+
+**Reality: Cross-functional teams are crucial for driving the business outcome**
+![cross-functional team.](./images/cross_fun_team.png)
+
+That said, let's discuss a couple of key roles.
+
+**Product Owner**
+![Product Owner](./images/product_owner.png)
+
+**Designer**
+![Designer](./images/Designer.png)
+
+**Software Engineer**
+![Designer](./images/software_engineer.png)
+
+**Data Engineer**
+![Data](./images/data_engineer.png)
+
+**Data Scientist**
+![Designer](./images/data_scientist.png)
+
+**Quality Assurance**
+![Designer](./images/quality_assurance.png)
+
+**DevOps**
+![Designer](./images/devops.png)
+
+### Project Management (Timing)
+
+**How much time should this take**
+![How much time should this take](./images/timing.png)
+🙋🏾‍♂️ Often asked question here is?
+
+> How much time should this take ? <br> **Answer:** it depends.
+
+The process is no different from typical scrum and agile.
+I highly recommend scrum.
+**Scrum**
+![Scrum](./images/scrum.png)
+
+**Scrum** is a framework for prototyping and improving on product ideas. Learn more about it [here](https://www.atlassian.com/agile/scrum)
+
+This process could take a week, a day, end to end or could take six months depending on how fast you can learn and iterate.
+
+Deploying and measuring really depends a lot on your tooling and your infrastructure that you're using, or if you're going to build that all from scratch.
+
+### Summary
+
+**My leaving note here is,**
+
+- Always, start with the business problem.
+- Ensure you have the correct data. (_poor data gives you a poor model._)
+- Build an interdisciplinary team.
+- Learn and iterate fast 🏃🏾‍♂️🏃🏾‍♂️🏃🏾‍♂️🏃🏾‍♂️
+
+Thank you for reading.
