@@ -50,4 +50,15 @@ I wrote an article on [Medium daminotes](https://daminotes.medium.com/understand
 
 ## Data Completeness
 
+Not only does your data need to match the reality of your problem, it needs to be complete. As much as possible, it needs to represent all scenarios that could come up in real-world data.
+
+Narrow down how you want to ensure data completeness.
+Start with :
+
+- what is the problem you're trying to solve, and how does it benefit your end-users?
+- what data will help you solve that problem?
+  - collect data and observe relationships, patterns and similarities among the data.
+  - identify potential anomalies or missing data.
+- Conduct research and get the best data to serve your use case.
+
 ..:TBC
