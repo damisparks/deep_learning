@@ -11,9 +11,16 @@ This project contains resources to help you learn concepts in artificial intelli
 
 ## TODO
 
-- [ ] Decide whether to add **Appen's Data Annotation Platform**
 - [ ] Add **Create a Medical Image Annotation Job**
 - [ ] Add Trello Board for interested readers to follow the article.
+
+## SCOPING
+
+- [ ] Decide whether to add **Appen's Data Annotation Platform**
+
+## DONE
+
+- [x] Add Case Study
 
 ## 3. Copyright
 

@@ -61,4 +61,11 @@ Start with :
   - identify potential anomalies or missing data.
 - Conduct research and get the best data to serve your use case.
 
+## Case Study
+
+An example of case study is **Parking Signs Detention**.
+You can use **[Figure Eight](https://www.figure-eight.com/platform/)**
+You can create an Appen account by going to their Client Workspace [homepage](https://client.appen.com/users/new) and creating an account for yourself.
+
+
 ..:TBC
