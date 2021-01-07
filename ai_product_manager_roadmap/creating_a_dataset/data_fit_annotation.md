@@ -67,5 +67,28 @@ An example of case study is **Parking Signs Detention**.
 You can use **[Figure Eight](https://www.figure-eight.com/platform/)**
 You can create an Appen account by going to their Client Workspace [homepage](https://client.appen.com/users/new) and creating an account for yourself.
 
+## Planning For Failure.
+
+You may not be able to train your model on all the possible data points.
+So, you will need to design for **unknown cases**.
+
+How do you handle cases the model has not seen before?
+The answer is :
+
+- Design an option with the least negative impact.
+
+## Planning For Longevity.
+
+Since real continuous data also changes all the time.
+So how can you plan for long-term success?
+
+If your dataset does not change, then you can use a static model which is trained once and used indefinitely until an update is required.
+
+For ever-evolving data, which is common, you should use dynamic model
+
+- Continuously trained on new datasets so it can keep learning.
+
+For frequently changing data, you may need to change
+your annotation job to reflect more relevant definitions or examples.
 
 ..:TBC

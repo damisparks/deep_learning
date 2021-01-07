@@ -21,6 +21,8 @@ This project contains resources to help you learn concepts in artificial intelli
 ## DONE
 
 - [x] Add Case Study
+- [x] Add **Planning For Failure**.
+- [x] Add **Planning For Longevity**.
 
 ## 3. Copyright
 
